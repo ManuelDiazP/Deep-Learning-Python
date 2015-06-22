@@ -27,7 +27,6 @@ def load (filename):
     return pickle.load(open(filename, "rb" ))
 
 #-----------------------------------------------------------------------
-#version 0.2
 
 class RBM:
   
